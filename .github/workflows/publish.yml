@@ -1,0 +1,25 @@
+name: Publicar Instagram 5asec
+on:
+  schedule:
+    - cron: '0 12 * * *'   # 09:00 America/Sao_Paulo -> Stories
+    - cron: '0 15 * * *'   # 12:00 America/Sao_Paulo -> Feed
+    - cron: '0 22 * * *'   # 19:00 America/Sao_Paulo -> Reels
+  workflow_dispatch:
+    inputs:
+      dry_run:   { description: 'Só testar (não publica)', type: boolean, default: true }
+      force_date: { description: 'Forçar data DD/MM (opcional)', type: string, default: '' }
+      force_slot: { description: 'Forçar slot: story|feed|reels (opcional)', type: string, default: '' }
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Publicar
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+          FORCE_DATE: ${{ github.event.inputs.force_date }}
+          FORCE_SLOT: ${{ github.event.inputs.force_slot }}
+        run: python3 publish.py
