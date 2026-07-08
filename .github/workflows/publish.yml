@@ -1,14 +1,13 @@
-name: Publicar Instagram 5asec
+name: Publicar Instagram 5asec (DESATIVADO - agora roda no n8n)
+# O agendamento foi movido para o n8n (workflow tWIZffK2UvKYhDg3).
+# Este repositório permanece apenas como HOST das imagens (CDN jsDelivr).
+# Mantido só o disparo manual, para eventual teste/backup.
 on:
-  schedule:
-    - cron: '0 12 * * *'   # 09:00 America/Sao_Paulo -> Stories
-    - cron: '0 15 * * *'   # 12:00 America/Sao_Paulo -> Feed
-    - cron: '0 22 * * *'   # 19:00 America/Sao_Paulo -> Reels
   workflow_dispatch:
     inputs:
       dry_run:   { description: 'Só testar (não publica)', type: boolean, default: true }
-      force_date: { description: 'Forçar data DD/MM (opcional)', type: string, default: '' }
-      force_slot: { description: 'Forçar slot: story|feed|reels (opcional)', type: string, default: '' }
+      force_date: { description: 'Forçar data DD/MM', type: string, default: '' }
+      force_slot: { description: 'Forçar slot: story|feed|reels', type: string, default: '' }
 jobs:
   publicar:
     runs-on: ubuntu-latest
