@@ -1,6 +1,16 @@
 [
   {
     "date": "08/07",
+    "slot": "story",
+    "type": "story",
+    "assets": [
+      "08_story_1.png",
+      "08_story_2.png"
+    ],
+    "caption": ""
+  },
+  {
+    "date": "08/07",
     "slot": "feed",
     "type": "carousel",
     "assets": [
@@ -10,12 +20,11 @@
     "caption": "As manchas das férias contam histórias. É sorvete, é barro, é molho, é tinta… e muita diversão pelo caminho. 🧒✨\nEnquanto as crianças aproveitam cada momento, a 5àsec ajuda a cuidar das roupas depois, com avaliação especializada e o tratamento ideal para cada peça.\nPara o seu conforto, você nos encontra na loja, no site ou no app, com serviços de delivery.\n\n#5àsec #lavanderia"
   },
   {
-    "date": "08/07",
+    "date": "09/07",
     "slot": "story",
     "type": "story",
     "assets": [
-      "08_story_1.png",
-      "08_story_2.png"
+      "09_story.png"
     ],
     "caption": ""
   },
@@ -29,11 +38,11 @@
     "caption": "A Bag 5àsec é aquela ajuda quando a pilha de roupas cresce, a agenda aperta e você só queria ganhar algumas horas no dia.\nVocê coloca as peças na Bag, leva até a 5àsec e deixa o resto com quem entende de cuidado têxtil.\nPara o seu conforto, você nos encontra na loja, no site ou no app, com serviços de delivery.\n#5àsec #lavanderia #bag5àsec"
   },
   {
-    "date": "09/07",
+    "date": "10/07",
     "slot": "story",
     "type": "story",
     "assets": [
-      "09_story.png"
+      "10_story.png"
     ],
     "caption": ""
   },
@@ -47,11 +56,14 @@
     "caption": "Camisa amassada? Visual desleixado? Invista em elegância e cuidado profissional para suas peças. 👔\nCom o Engomar 5àsec, suas roupas recebem um acabamento especial.\nÉ aquele cuidado que prolonga o efeito da passadoria e facilita a rotina de quem precisa estar pronto para compromissos, reuniões e dias corridos.\nPara o seu conforto, você nos encontra na loja, no site ou no app, com serviços de delivery.\n#5àsec #lavanderia #engomar"
   },
   {
-    "date": "10/07",
+    "date": "11/07",
     "slot": "story",
     "type": "story",
     "assets": [
-      "10_story.png"
+      "11_story_1.png",
+      "11_story_2.png",
+      "11_story_3.png",
+      "11_story_4.png"
     ],
     "caption": ""
   },
@@ -68,14 +80,11 @@
     "caption": "Deixe a 5àsec fazer parte da sua rotina!\nTem roupa que participa de tudo: reunião, mercado, treino, passeio, descanso e aquele \"só vou ali\" que vira o dia inteiro fora. ✨\nE, justamente por estar tão presente, ela também merece atenção na hora do cuidado.\nNa 5àsec, suas peças permanecem bem cuidadas por mais tempo.\n#5àsec #lavanderia"
   },
   {
-    "date": "11/07",
+    "date": "13/07",
     "slot": "story",
     "type": "story",
     "assets": [
-      "11_story_1.png",
-      "11_story_2.png",
-      "11_story_3.png",
-      "11_story_4.png"
+      "13_story.png"
     ],
     "caption": ""
   },
@@ -89,11 +98,15 @@
     "caption": "Hoje é Dia do Rock e os clássicos do look também merecem cuidado de especialista. 🤘🖤\nJaqueta de couro, coturno, calça de couro… peças que atravessam o inverno com estilo, mas que precisam de atenção para manter aparência, o acabamento e a durabilidade.\nNa 5àsec, temos produtos que higienizam as peças de couro com o cuidado certo para não danificá-las.\n📍Leve suas peças para a unidade mais próxima.\n#DiadoRock #5àsec #lavanderia #couro"
   },
   {
-    "date": "13/07",
+    "date": "15/07",
     "slot": "story",
     "type": "story",
     "assets": [
-      "13_story.png"
+      "15_story_1.png",
+      "15_story_2.png",
+      "15_story_3.png",
+      "15_story_4.png",
+      "15_story_5.png"
     ],
     "caption": ""
   },
@@ -111,15 +124,11 @@
     "caption": "As roupas que mais fazem parte da sua rotina também merecem cuidado de especialista. ✨\nNa 5àsec, elas recebem cuidado têxtil especializado para continuarem como novas por mais tempo.\nPara o seu conforto, você nos encontra na loja, no site ou no app, com serviços de delivery.\n#5àsec #lavanderia"
   },
   {
-    "date": "15/07",
+    "date": "16/07",
     "slot": "story",
     "type": "story",
     "assets": [
-      "15_story_1.png",
-      "15_story_2.png",
-      "15_story_3.png",
-      "15_story_4.png",
-      "15_story_5.png"
+      "16_story.mp4"
     ],
     "caption": ""
   },
@@ -134,6 +143,16 @@
   },
   {
     "date": "17/07",
+    "slot": "story",
+    "type": "story",
+    "assets": [
+      "17_story_1.png",
+      "17_story_2.png"
+    ],
+    "caption": ""
+  },
+  {
+    "date": "17/07",
     "slot": "feed",
     "type": "carousel",
     "assets": [
@@ -143,12 +162,11 @@
     "caption": "Poucas coisas são tão boas quanto dormir com aquele cobertor quentinho no inverno.❄️\nNa 5àsec, eles recebem o tratamento ideal para ficarem limpos, macios e prontos para acompanhar seus dias de frio com mais conforto.\n\nE, com o delivery 5àsec, você resolve tudo sem sair de casa.\n📍Peça pelo site, app ou consulte a unidade mais próxima.\n#delivery5àsec #cobertores #inverno #lavanderia"
   },
   {
-    "date": "17/07",
+    "date": "18/07",
     "slot": "story",
     "type": "story",
     "assets": [
-      "17_story_1.png",
-      "17_story_2.png"
+      "18_story.png"
     ],
     "caption": ""
   },
@@ -162,11 +180,11 @@
     "caption": "Simples assim: quando suas roupas precisam de cuidado, tem sempre uma 5àsec por perto para ajudar.\nDa rotina aos imprevistos, conte com o olhar de especialistas para tratar suas peças com mais atenção, técnica e praticidade.\nPara o seu conforto, você nos encontra na loja, no site ou no app, com serviços de delivery.\n#5àsec #lavanderia"
   },
   {
-    "date": "18/07",
+    "date": "19/07",
     "slot": "story",
     "type": "story",
     "assets": [
-      "18_story.png"
+      "19_story.png"
     ],
     "caption": ""
   },
@@ -180,11 +198,25 @@
     "caption": "Seus looks protegidos!\n\nCom o Impermeabilizar 5àsec, suas roupas ganham uma camada extra de proteção contra respingos e manchas do dia a dia, ajudando a preservar as fibras e manter suas peças bonitas por mais tempo.\n\nPorque o melhor momento para proteger sua roupa é antes da primeira mancha.\n\nPara o seu conforto, você nos encontra na loja, no site ou no app, com serviços de delivery.\n#5àsec #lavanderia"
   },
   {
-    "date": "19/07",
+    "date": "20/07",
     "slot": "story",
     "type": "story",
     "assets": [
-      "19_story.png"
+      "20_story_1.png",
+      "20_story_2.png"
+    ],
+    "caption": ""
+  },
+  {
+    "date": "21/07",
+    "slot": "story",
+    "type": "story",
+    "assets": [
+      "21_story_1.png",
+      "21_story_2.png",
+      "21_story_3.png",
+      "21_story_4.png",
+      "21_story_5.png"
     ],
     "caption": ""
   },
@@ -202,15 +234,11 @@
     "caption": "Já pensou em montar um guarda-roupa inteligente? ✨\n\nPara facilitar a rotina e não errar na hora de montar os looks, escolher peças essenciais que combinam entre si é uma ótima estratégia.\n\nE, para manter essas peças sempre prontas para uso, conte com a 5àsec. Cuidamos das roupas que fazem parte do seu dia a dia para que elas continuem bem cuidadas por mais tempo.\n\nPara o seu conforto, você nos encontra na loja, no site ou no app, com serviços de delivery.\n#5àsec #lavanderia"
   },
   {
-    "date": "21/07",
+    "date": "22/07",
     "slot": "story",
     "type": "story",
     "assets": [
-      "21_story_1.png",
-      "21_story_2.png",
-      "21_story_3.png",
-      "21_story_4.png",
-      "21_story_5.png"
+      "22_story.png"
     ],
     "caption": ""
   },
@@ -224,11 +252,11 @@
     "caption": "Comente quantos pontos você fez. 👀\n\nSe o seu placar ficou baixo, a 5àsec te ajuda a virar o jogo.\n\nCom cuidado especializado, suas peças favoritas podem ganhar mais proteção, aparência renovada e muito mais tempo no seu guarda-roupa.\n\nPara o seu conforto, você nos encontra na loja, no site ou no app, com serviços de delivery.\n#5àsec #lavanderia"
   },
   {
-    "date": "22/07",
+    "date": "24/07",
     "slot": "story",
     "type": "story",
     "assets": [
-      "22_story.png"
+      "24_story.png"
     ],
     "caption": ""
   },
@@ -242,11 +270,11 @@
     "caption": "Tem cheirinho que abraça a gente 💜\nNa 5àsec, o cuidado com cada peça faz com que as memórias sejam sentidas pelo toque de um tecido bem cuidado, no cheiro de uma roupa limpinha e no conforto que tudo isso traz no dia a dia.\nPorque tudo o que você ama merece continuar como novo por mais tempo.\nPara o seu conforto, você nos encontra na loja, no site ou no app, com serviços de delivery.\n#5àsec #lavanderia"
   },
   {
-    "date": "24/07",
+    "date": "25/07",
     "slot": "story",
     "type": "story",
     "assets": [
-      "24_story.png"
+      "25_story.png"
     ],
     "caption": ""
   },
@@ -260,11 +288,11 @@
     "caption": "A promoção está chegando ao fim, mas ainda dá tempo de participar.\nCuidar das suas roupas pode te colocar no caminho de uma BMW X1. 🚘✨\n\nParticipar da campanha Você de carro novo com a 5àsec é simples:\nacesse o site da promoção, faça seu cadastro e acumule R$ 550 em compras para concorrer.\n\nDepois disso, é só torcer!\n#5àsec #lavanderia #bmwx1 #promoção #vocêdecarronovo"
   },
   {
-    "date": "25/07",
+    "date": "26/07",
     "slot": "story",
     "type": "story",
     "assets": [
-      "25_story.png"
+      "26_story.png"
     ],
     "caption": ""
   },
@@ -276,15 +304,6 @@
       "26_feed.png"
     ],
     "caption": "Sabe aquela toalha de mesa que fez parte de todos os almoços importantes em família? Aquela peça de roupa que você usa hoje, mas que já foi da sua mãe? Aquelas cortinas que fazem parte do aconchego que só a casa de vó tem?\nAlgumas peças atravessam o tempo junto com a gente. Guardam histórias, abraços, memórias e momentos que merecem continuar vivos, como novos por mais tempo.\nNeste Dia dos Avós, celebre quem transforma cuidado em carinho todos os dias.\nPara o seu conforto, você nos encontra na loja, no site ou no app, com serviços de delivery.\n\n#5àsec #lavanderia #DiadosAvós"
-  },
-  {
-    "date": "26/07",
-    "slot": "story",
-    "type": "story",
-    "assets": [
-      "26_story.png"
-    ],
-    "caption": ""
   },
   {
     "date": "27/07",
@@ -306,20 +325,20 @@
   },
   {
     "date": "30/07",
-    "slot": "feed",
-    "type": "feed",
-    "assets": [
-      "30_feed.png"
-    ],
-    "caption": "Essa dica você precisa seguir! 🤍\n\nAquela peça branca superversátil, que combina com vários looks, merece um toque especial da 5àsec.\n\nCom o Branco+, suas peças recebem um tratamento especializado para recuperar o brilho e potencializar o branco, mantendo o aspecto de roupa nova por mais tempo.\n\nPara o seu conforto, você nos encontra na loja, no site ou no app, com serviços de delivery.\n#5àsec #lavanderia #Branco+"
-  },
-  {
-    "date": "30/07",
     "slot": "story",
     "type": "story",
     "assets": [
       "30_story.png"
     ],
     "caption": ""
+  },
+  {
+    "date": "30/07",
+    "slot": "feed",
+    "type": "feed",
+    "assets": [
+      "30_feed.png"
+    ],
+    "caption": "Essa dica você precisa seguir! 🤍\n\nAquela peça branca superversátil, que combina com vários looks, merece um toque especial da 5àsec.\n\nCom o Branco+, suas peças recebem um tratamento especializado para recuperar o brilho e potencializar o branco, mantendo o aspecto de roupa nova por mais tempo.\n\nPara o seu conforto, você nos encontra na loja, no site ou no app, com serviços de delivery.\n#5àsec #lavanderia #Branco+"
   }
 ]
